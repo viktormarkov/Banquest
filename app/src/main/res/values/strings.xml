@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Banquest</string>
+
+    <string name="bills_title">Pay bills</string>
+    <string name="bill_name">name</string>
+    <string name="bill_type">Internet</string>
+    <string name="amount_hint">amount</string>
+    <string name="bill_amount_value">4000</string>
+    <string name="currency">huf</string>
+    <string name="bill_account_number_hint">account number</string>
+    <string name="bill_acount_number_value">87658 567643 787854</string>
+    <string name="bill_action">Pay</string>
+
+    <string name="insurance_title">Buy insurance</string>
+    <string name="insurance_type">Health Insurance</string>
+    <string name="insurance_amount_value">40000</string>
+    <string name="insurance_description">Health insurance is insurance that covers the whole or a part of the risk of a person incurring medical expenses, spreading the risk over a large number of persons.</string>
+    <string name="insurance_action">Buy</string>
+
+    <string name="invite_title">Invite friend</string>
+    <string name="invite_hint">Write your friend’s phone</string>
+    <string name="invite_action">Invite</string>
+    <string name="root_quests_title">Your quests:</string>
+    <string name="bonus">bonus</string>
+    <string name="invite_bonus_value">+500</string>
+    <string name="insurance_bonus_value">+2000</string>
+    <string name="bills_bonus_value">+1000</string>
+    <string name="root_statistics_title">Statistics</string>
+    <string name="level">level</string>
+    <string name="statistics_title">Your statistics</string>
+    <string name="total_insurance_value">Total discount for life insurance</string>
+    <string name="total_credit_percent">Total credit percent</string>
+    <string name="total_cashback">Total cashback</string>
+    <string name="total_deposit_percent">Total deposit percent</string>
+    <string name="level_up">Level Up</string>
+    <string name="congratulations">congratulations!</string>
+    <string name="level_up_action">Yay!</string>
+</resources>

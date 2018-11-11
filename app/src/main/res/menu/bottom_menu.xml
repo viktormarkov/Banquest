@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/tab_spending"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Ыpending"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/tab_invite"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Invite"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/tab_insurance"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Insurance"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/tab_levels"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Levels"
+        app:showAsAction="ifRoom" />
+</menu>

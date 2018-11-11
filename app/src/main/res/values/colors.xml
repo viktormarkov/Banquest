@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#565656</color>
+    <color name="colorAccent">#7ed321</color>
+
+    <color name="statistic_level_fade">#59515151</color>
+    <color name="statistic_bonus_fade">#599b9b9b</color>
+    <color name="statistic_level">#515151</color>
+    <color name="statistic_bonus">#7ed321</color>
+
+    <color name="black">#4a4a4a</color>
+    <color name="black_light">#515151</color>
+    <color name="gray">#9b9b9b</color>
+    <color name="gray_light">#bebebe</color>
+    
+    <color name="orange">#f5a623</color>
+</resources>
